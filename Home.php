@@ -26,7 +26,7 @@ echo $_SESSION['USER_NAME'];
     <br>
     <div>
 <a href="Logout.php"><button type="button" class="btn btn-danger"style="Display:block;
-   Margin: auto; width:350px" ><h4> Sign OUT of Your Account </h4></button></a>
+   Margin: auto; width:350px" ><h4> Sign OUT </h4></button></a>
 </div>
 </footer>
 
