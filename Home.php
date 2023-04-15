@@ -15,7 +15,7 @@ echo $_SESSION['USER_NAME'];
 
 <body>
     <header>
-       <h1 style="text-align:center"><?php echo 'Hi,'.$_SESSION['USER_NAME'].' Welcome to Our Site'?></h1>
+       <h1 style="text-align:center"><?php echo 'Hi,'.$_SESSION['USER_NAME']?></h1>
     </header>
     <div>
 
